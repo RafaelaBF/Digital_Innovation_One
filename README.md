@@ -4,4 +4,4 @@ Esse repositório tem como finalidade expor os trabalhos e anotações que irei 
 
 ## Conquistas até agora 🏆
 <br>
-<img src="Imagens/Bem vindo a DIO.png" alt="Lógica de Programação Essencial" width="60" ><img src="Imagens/Bootcamp MRV Front End SPA Developer.png" alt="Lógica de Programação Essencial" width="60" ><img src="Imagens/Lógica de Programação Essencial.png" alt="Lógica de Programação Essencial" width="60" >
+<img src="Imagens/Bem vindo a DIO.png" alt="Dio" width="60" > &nbsp; <img src="Imagens/Bootcamp MRV Front End SPA Developer.png" alt="Bootcamp MRV" width="60"> &nbsp; <img src="Imagens/Lógica de Programação Essencial.png" alt="Lógica de Programação Essencial" width="60">

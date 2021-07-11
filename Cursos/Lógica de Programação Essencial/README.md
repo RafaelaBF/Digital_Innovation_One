@@ -10,5 +10,5 @@ Lógica de programação é a forma como o desenvolvedor entende a comunicação
 
 ## 👩🏻‍💻 Programas usados 
 <br>
-<img src="Imagens/logo_portugol.png" alt="Portugol" width="220"><img src="Imagens/Flowgorithm_Logo.png" alt="Flowgorithm" width="300">
+<img src="Imagens/logo_portugol.png" alt="Portugol" width="220"> &nbsp; <img src="Imagens/Flowgorithm_Logo.png" alt="Flowgorithm" width="300">
 
